@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Output folder
+output/
+
+# Environment files
+pdfclean-venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and log files
+*.log
+
+# VS Code settings
+.vscode/

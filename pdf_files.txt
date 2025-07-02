@@ -1,0 +1,8 @@
+testfiles/L10973-ChromeSaveAsPDF.pdf
+testfiles/L10973-CriarAdobePDF.pdf
+testfiles/L10973-LibreOfficeExport.pdf
+testfiles/L10973-MicrosoftPrintToPDF.pdf
+testfiles/L10973-WordPublicarComoPDF.pdf
+testfiles/L10973-WordPublicarComoPDF_A.pdf
+testfiles/L10973-WordPublicarComoPDF_A_TamanhoMinimo.pdf
+testfiles/L10973-WordPublicarComoPDF_TamanhoMinimo.pdf
